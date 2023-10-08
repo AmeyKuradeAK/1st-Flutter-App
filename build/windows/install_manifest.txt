@@ -1,0 +1,9 @@
+E:/Flutter-1st-app/demo_1/build/windows/runner/Debug/data/icudtl.dat
+E:/Flutter-1st-app/demo_1/build/windows/runner/Debug/flutter_windows.dll
+E:/Flutter-1st-app/demo_1/build/windows/runner/Debug/data/flutter_assets/AssetManifest.bin
+E:/Flutter-1st-app/demo_1/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+E:/Flutter-1st-app/demo_1/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+E:/Flutter-1st-app/demo_1/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+E:/Flutter-1st-app/demo_1/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+E:/Flutter-1st-app/demo_1/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+E:/Flutter-1st-app/demo_1/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
